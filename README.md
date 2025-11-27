@@ -1,12 +1,15 @@
 Practical Contents
+
 1.1. Store & Display Values in Different Variables: Create and display variables of different data types, including Integer, Double, Float, Long, Short, Byte, Char, Boolean, and String.
 
 O/P:-
 
 <img width="174" height="219" alt="image" src="https://github.com/user-attachments/assets/fd2f5bf2-5329-4ab7-b085-1efefee5a962" />
 
-1.2.
+1.2. Type Conversion: Perform type conversions such as Integer to Double, String to Integer, and String to Double.
+
 O/P:-
+
 <img width="375" height="142" alt="image" src="https://github.com/user-attachments/assets/eec6673e-3d55-403d-8a21-f0079c8172ef" />
 
 image
